@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HeartBeat:war">
+    <output-path>$PROJECT_DIR$/../HeartBeat-master/target</output-path>
+    <root id="archive" name="HeartBeat.war">
+      <element id="artifact" artifact-name="HeartBeat:war exploded" />
+    </root>
+  </artifact>
+</component>
